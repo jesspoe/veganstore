@@ -1,3 +1,11 @@
 #spree-header {
   background-color: rgb(88, 51, 223) !important; 
 }
+
+.header-text{
+  position: absolute;
+  font-size: 1em;
+  top: 7.5em;
+  left: 12em;
+  color: white;
+}
